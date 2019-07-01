@@ -24,3 +24,7 @@ When this setting is changed a modal shows up to inform about a reboot is requir
 
 ## Show/hide mouse pointer
 Self explanatory. By default the mouse pointer is hidden.
+
+
+# Installation advice
+If the previous/original version of the plugin has or had been installed it is necessary to remove /data/volumiokiok.
