@@ -27,4 +27,4 @@ Self explanatory. By default the mouse pointer is hidden.
 
 
 # Installation advice
-If the previous/original version of the plugin has or had been installed it is necessary to remove /data/volumiokiok.
+If the previous/original version of the plugin has or had been installed it is necessary to remove /data/volumiokiosk.
